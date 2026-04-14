@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3d63c7b0c310c310a245d60d050131f9" label="pr" max_length="40" name="x_1463223_abcd_pr" text_index="true" type="collection">
+        <element label="Name" max_length="40" name="x_1463223_tlms_name" type="string"/>
+    </element>
+</database>
