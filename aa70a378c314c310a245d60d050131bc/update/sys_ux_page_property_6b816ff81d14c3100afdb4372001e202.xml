@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>globalSearchDataConfigId</name>
+        <page display_value="tlms">2f816ff84014c310e8c882c258088616</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-14 23:48:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>6b816ff81d14c3100afdb4372001e202</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="tlms" source="x_1463223_tlms">aa70a378c314c310a245d60d050131bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tlms">aa70a378c314c310a245d60d050131bc</sys_scope>
+        <sys_update_name>sys_ux_page_property_6b816ff81d14c3100afdb4372001e202</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-14 23:48:56</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1463223_tlms.2f816ff84014c310e8c882c258088616.root.globalSearchDataConfigId</unique_name>
+        <value>6b816ff8b414c3102ab04bfabde78e0c</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=6b816ff81d14c3100afdb4372001e202"/>
+</record_update>

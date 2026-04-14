@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_footer</name>
+        <page display_value="tlms">2f816ff84014c310e8c882c258088616</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-14 23:48:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>6f816ff85914c310d5e758ba263e1c03</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="tlms" source="x_1463223_tlms">aa70a378c314c310a245d60d050131bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tlms">aa70a378c314c310a245d60d050131bc</sys_scope>
+        <sys_update_name>sys_ux_page_property_6f816ff85914c310d5e758ba263e1c03</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-14 23:48:56</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1463223_tlms.2f816ff84014c310e8c882c258088616.root.chrome_footer</unique_name>
+        <value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{},"enable_footer_bar":false,"footer_bar_options":{}}}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=6f816ff85914c310d5e758ba263e1c03"/>
+</record_update>

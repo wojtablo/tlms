@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">e191a33cc314c310a245d60d0501317f</canvas>
+        <component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":true,"enableRealTimeUpdate":true,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"pr","sourceType":"table","tableOrViewName":"x_1463223_tlms_pr","filterQuery":"","id":"tablex_1463223_tlms_pr1776210541984","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Critical Tasks","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"tablex_1463223_tlms_pr1776210541984","id":"tablex_1463223_tlms_pr17762105419841776210541989","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableDrilldown":true,"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","hideMatrixAggregate":false,"newReporting":false,"filterConfigurations":[],"noDebounce":"","contextMenuActions":[]}</component_props>
+        <h>9</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-14 23:49:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6d91a33cc314c310a245d60d05013190</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="tlms" source="x_1463223_tlms">aa70a378c314c310a245d60d050131bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tlms">aa70a378c314c310a245d60d050131bc</sys_scope>
+        <sys_update_name>par_dashboard_widget_6d91a33cc314c310a245d60d05013190</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-14 23:49:02</sys_updated_on>
+        <visualization/>
+        <w>16</w>
+        <widget_props/>
+        <x>32</x>
+        <y>3</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="tlms">aa70a378c314c310a245d60d050131bc</application>
+        <file_path/>
+        <instance_id>d54f6fbb3b6b4a94986d048aa4e45a5d</instance_id>
+        <instance_name>dev281638</instance_name>
+        <name>par_dashboard_widget_6d91a33cc314c310a245d60d05013190</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">e191a33cc314c310a245d60d0501317f</canvas><component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component><component_props>{"scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":true,"enableRealTimeUpdate":true,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"pr","sourceType":"table","tableOrViewName":"x_1463223_tlms_pr","filterQuery":"","id":"tablex_1463223_tlms_pr1776210541984","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Critical Tasks","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"tablex_1463223_tlms_pr1776210541984","id":"tablex_1463223_tlms_pr17762105419841776210541989","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableDrilldown":true,"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","hideMatrixAggregate":false,"newReporting":false,"filterConfigurations":[],"noDebounce":"","contextMenuActions":[]}</component_props><h>9</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-14 23:49:02</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6d91a33cc314c310a245d60d05013190</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="tlms" source="x_1463223_tlms">aa70a378c314c310a245d60d050131bc</sys_package><sys_policy/><sys_scope display_value="tlms">aa70a378c314c310a245d60d050131bc</sys_scope><sys_update_name>par_dashboard_widget_6d91a33cc314c310a245d60d05013190</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-14 23:49:02</sys_updated_on><visualization/><w>16</w><widget_props/><x>32</x><y>3</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-705804674</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>7a412378c314c310a245d60d05013126</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-14 23:49:02</sys_created_on>
+        <sys_id>ed91a33cc314c310a245d60d05013193</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19d8e65ffa00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-14 23:49:02</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>ad91a33c8c14c310ac694d6d26b9fc92</update_guid>
+        <update_guid_history>ad91a33c8c14c310ac694d6d26b9fc92:-705804674</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">f591e33cc314c310a245d60d05013170</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-14 23:49:03</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>070d7b4fb0854a908106677e3c2a1f69</sys_id>
+        <sys_metadata>6d91a33cc314c310a245d60d05013190</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="tlms" source="x_1463223_tlms">aa70a378c314c310a245d60d050131bc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="tlms">aa70a378c314c310a245d60d050131bc</sys_scope>
+        <sys_scope_delete display_value="">051cb91e27e84084852d70fe2d4205f9</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_6d91a33cc314c310a245d60d05013190</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_6d91a33cc314c310a245d60d05013190">ed91a33cc314c310a245d60d05013193</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-14 23:49:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="default_stop_word_dictionary">9865058bc7031010d1cfd9795cc26037</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="tlms Search Profile">2b816ff83514c310473fa65831c10816</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-14 23:48:55</sys_created_on>
+        <sys_id>67816ff82814c31068022ed6ca66fe15</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>default_stop_word_dictionary.tlms Search Profile</sys_name>
+        <sys_package display_value="tlms" source="x_1463223_tlms">aa70a378c314c310a245d60d050131bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tlms">aa70a378c314c310a245d60d050131bc</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_67816ff82814c31068022ed6ca66fe15</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-14 23:48:55</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

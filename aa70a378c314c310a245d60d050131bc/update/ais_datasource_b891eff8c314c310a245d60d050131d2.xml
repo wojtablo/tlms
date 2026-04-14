@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource">
+    <ais_datasource action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conflict>false</conflict>
+        <filter/>
+        <force_late_binding>false</force_late_binding>
+        <name>pr Table</name>
+        <retention_policy/>
+        <source>x_1463223_tlms_pr</source>
+        <sys_class_name>ais_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-14 23:48:59</sys_created_on>
+        <sys_id>b891eff8c314c310a245d60d050131d2</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>pr Table</sys_name>
+        <sys_package display_value="tlms" source="x_1463223_tlms">aa70a378c314c310a245d60d050131bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tlms">aa70a378c314c310a245d60d050131bc</sys_scope>
+        <sys_update_name>ais_datasource_b891eff8c314c310a245d60d050131d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-14 23:49:00</sys_updated_on>
+        <type>internal</type>
+    </ais_datasource>
+</record_update>
